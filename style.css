@@ -1,0 +1,10 @@
+.fader {
+  border: 1px solid;
+  width: 600px;
+  height: 500px;
+}
+.fader-node {
+  border: 1px solid red;
+  width: 600px;
+  height: 500px;
+}
